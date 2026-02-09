@@ -6,8 +6,6 @@
 よろしくお願いします ✨
 </p>
 
----
-
 ## About Me
 
 - Programmer / Network Engineer  
@@ -55,15 +53,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoiNyanko&layout=compact&hide_border=true" />
 </p-->
 
----
-
 ## 🔥 Commit Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AoiNyanko&hide_border=false" />
 </p>
-
----
 
 <p align="center">
 ฅ(=・ω・=)ฅ Thanks for visiting!
