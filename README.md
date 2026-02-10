@@ -12,7 +12,6 @@
 - 喜歡 Linux / Networking / Backend / Automation  
 - 日常：寫程式、折騰伺服器、擼貓(雲)  
 
----
 
 ## 🛠 Languages & Tools
 
